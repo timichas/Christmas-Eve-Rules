@@ -7,5 +7,6 @@
 <li>We are all adults; please help yourself. If you need something, please ask.</li>
 <li>Please use the kitchen iPad to change the music.</li>
 <li>The dogs may <em>not</em> have any human food. Ignore the begging.</li>
+<li>Tim is not the bartender.</li>
 
 </ol>
